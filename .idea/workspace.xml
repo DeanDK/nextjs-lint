@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5cf2f6-7eb0-4a90-8f34-43d6223aa43b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/brijica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/00f975a0d7656c36f3ad8d271e01f4aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0104d9bfd112b3fd184573d7034f169c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0112223bb7c7261f841108922a5fb276.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/02ffeedb62c2414655f5ebc09597a1c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/03ea3481f5048311dffdc33518f18a2a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/066e3c2a3f621460626f45eac06296b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/086394300aa1deac62613b6997d722a8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0ac2e0a33094607e4b76816636c440de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0adbef81cd5b387899ce30e0ef36ce01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0c340c65722cfbe4b92ddd46b65e8006.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/0fd1c7df8ec84199da5ff979c1c4bfaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/127e6311dd55d390145830fe47904690.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/141f8e3a074c84cbc5d946ed80f56e04.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/19aab7aa3920fcb67c461ddd747dc988.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/19de66bddb5f3ad95b093d4a072c999d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/1a644d84bcd0d62735b54b40bc015111.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/1de28a7ab41502f6cd8d79de93328b20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/1f3cd2e6c90299ff26d0a5ffbb2fe08c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/21d84ff0c4ac0abbe9de91b97075f886.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/22a5d67c297d7346f55a8c4f7bc8bc51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/246e55b9ce64892d4afb1e2d2edf5e58.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/248bca8ae6733d2338a54cb37b035e49.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/257e48b7d3cf4f3e031d654b8b14f255.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/2622ebdd1aaf04f4b0148da4381b192e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/268d1ca697bd3c686d4f836c63792722.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/28f23627273815bf1f3d07e1ccac13ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/2efc3e2cce6c953aa9b47ed4f973ed78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/30176aa9baa45a2714d64e5b830a6dc8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/3090d99abbe5c85a8c437fb301d2da47.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/30fafd3dfa64d50131b9293925b99258.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/31d560492dacbeb948dc52a1f428b973.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/32ad7f21ce226657cf10e95c253f77d0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/3342ee45b31f5d1430d4eb54941193b8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/36a326dd032206d48b01a62f9332e3e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/37cf554e837976af85e5756917848bb8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/38b8643d99a6e8a14805c6672346af42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/39074db8c77fe5bfcbf02777c1453388.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/39b6b181b7bce36f2c09475e257dd80c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/39fec11815a0c9a85dd5d3fb5e63a940.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/3af31f174663d709fcfef0d9eb55597f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/3c6b3d8ac5e90bcf6ce90e82e99791d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/407894a68c6f5c270f657ce9fcb1cce8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/412c9d322434d3aa68773a1c3b4069ca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4221f02d4bc904883ab11f962140ed51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4385cb4889d2d599a96379d4f9e156d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/45b586023fceed803e72fcd9583c919c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/46909940716539175636d7f6a57ab547.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/47de6e1e9cc87ee6b5d3ae9f66842eb5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/48566ddabf6600f9f98b2febba5fbab7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4bd17ff9aa1704e3ea9939d2f530e7de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4c830642b361c8ef0a5c6730ef3849fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4d1da26e4d65934565fb1e2cf742ddc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4dba79b3ab4b73cc28cfbc612adde4af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/4eec0a76877bf7385c713b6aa69fcb86.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/513a95d85c91aa5fc241b40430c7f15d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/5339ba23e8211d671621eac75d0cc51a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/53ba1ac68992d820998f295d2efbd97b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/5451563bed3e63fb852761b5dfed141b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/54f55b25fad76d7e12f9c26cfad00499.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/556c0792475c10de121873664d97d8f1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/559b78e4e35f9578ced17924ae535cb3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/57b1163c605fcb14edb95d1bfc157d01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/5990e7495fcb2c65bdcc1df3a2e65b95.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/5abf857f575862799fca9706925b2908.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/5f5d817010a75964caa3f6bd5794e005.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/614d48ce47bb4b0491e9bc76c892d8de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/672b930e9cc870d561fd7650d5067ced.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/688ea5dca95adfbe587271f626aa28ea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/68f5127e4a258785ea503ea0401cddba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/6d997473882a1cba5ec4ff1be0f5aea8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/6e910477ae579da754c224b2b1898e84.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/707694c33aa697cd4214627b4a92c61a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/72ae2ae808957e67ec0e6da1f55312cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/7377dd80bfb7717cc8622bb0f171be2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/7446cc28b4b67e16f822d4e7ce482de5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/7802a6031b63b3a5d7b603ad9cdc678a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/7814142147264c97f5ea05787a561b82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/78a3143fe6b00ef5304185148c85af7e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/794966989b3d80cc48562c5c0fc1fcc7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/806cc0a9853cdbda4d45c26dd00645e4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/81173e61024a5735d466c469a6b7b2bf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/821b0d51ac0035a4cc2c82f9d1cb9101.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/829e05f5ad3f449277117bb0a0a9d25f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/856817a1d783553201bd951a31f22c4a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/87900a6f33efe722801cf71ab5569e17.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/88dbaa95466328169be45ec74db6cd9f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/8935555d0be5ff2af9be08bdadb5ccd0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/8a29e20bdcf5237fa5ba44c7fcc1842b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/8bfef4d6d05fbd2640c49651a9de0a44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/8f187e572ef4f2333ab684c7857a3ddb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/91a54981f0772758c1cd56547c3b3d41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/91b4c57dc45c52ea9957e95b00fcc778.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/92eae0aa1f1bf754950e776ae8ee6629.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9528f492cd68d8a43729e41641577059.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9656c0474f43d8b3a99392e643551585.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/96952bef2b6e2a4b3f0d3234ae488504.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9ce691699ec8afac5911d162b2ee0fdb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9f57aa3a83fd1ed608a7a676831a25ea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9f61d095387f4ff8ed1c26fa57b9641c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/9f7ab7c4831fcbb4a161bb30c1dc3523.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a01cddba65e4582cfdc3518699d0c915.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a3387f0206842fc5d485b3ac4ed4ba93.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a46d554504aff1659239ffaa5edb8ba5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a4defecdc51a6bbeb004538be92c625b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/a767b88450000efa6634fa76f69d130d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/aa314fa96805f262da0b19dfc0ed82bb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/ab687ba2e01b4d016a9e30f29ebfb712.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/b05dd9b951e38b155e6550091ef84064.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/b3d270341013ea2f68a0366ab3acfdf0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/b8b0ceaf0fc9e09934ae1c51cab3e03f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c07bc3ddf94ef95a212b6ab1870dc359.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c0ac9a7d4e086ea440ad40d6d068c3a6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c20851ddde9b0640e09d42beb33d5b03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c3f7e00a99fb20c5510f40bff3012057.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c4e0c3391a26bc6d88f6169d4c795ef8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/c9113d5c78b926272a43cce57fb1ade4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/ce9a1947a150bb8c94b4a6a135c8ae1c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/d0fc8836e33a42a2306c96e6c2dcfed6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/d2212b17f92299e80616caaf6ee0e180.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/d41e84420d1f83cbe626178e0720ba1e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/d94b6383dce63944d6a9c59826d7911c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/d9bbfd25407939096ed31c0e56446756.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/dc3c9ca77552d6c04c9a01ca814e2c80.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/de9260faebfe72257b6f9f71989a0f41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/e00812d6c8c3e74e5e69c7acd4c262a7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/e0ac1a857c556feb2bf3ea9bc1fef4e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/e12446f170ca65e225c5716604e33c9b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/e20ecac7d121845b2aa9a6d0b7d8ac53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/e5c93e2f3da8af24d6970494d93bed58.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/f2bd0d351f38bc6c19518d80f8765a73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/f5147fb1e3f9a065575f509825673c0a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/f83d7a931ce7c98084017a9ced26feaa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/f8fc8d67956179949314d0df56a4c0ad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/fd0920e728ddaa7ed13e1c94c9ce7492.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-babel-loader/fd1397b25cfcfa0622aa56d33717b5ea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/init-server.js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/on-error-server.js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/server/ssr-module-cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/amp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/pages/next/dist/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/react-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/chunks/webpack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/development/_ssgManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/1977a5a5c1cff3c1350c.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/209ff09698aea8f249ed.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/3fd5e504ab6657daa6ad.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/59af773100808fe50d78.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/7cca7cc928b7a8918e8f.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/bd7eb781a9b9945614f3.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/c035aee767d58f33454f.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/cc716696979e85c862c6.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/f462b2233ace6ef59de8.hot-update.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.3fd5e504ab6657daa6ad.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.59af773100808fe50d78.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.7cca7cc928b7a8918e8f.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.c035aee767d58f33454f.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.cc716696979e85c862c6.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/_app.f462b2233ace6ef59de8.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/webpack/pages/index.7cca7cc928b7a8918e8f.hot-update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lint-staged.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m18huAY9eGNlM1qZ6fTh8inDha" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5cf2f6-7eb0-4a90-8f34-43d6223aa43b" name="Default Changelist" comment="" />
+      <created>1608649859176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608649859176</updated>
+      <workItem from="1608649860558" duration="2675000" />
+      <workItem from="1608711143626" duration="1319000" />
+      <workItem from="1608712535375" duration="1152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
